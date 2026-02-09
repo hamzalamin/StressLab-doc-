@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="navbar-container">
         <div className="navbar-brand">
           <span className="logo-icon">
-            <img src="/icon.png" alt="API Stress Lab" />
+            <img src="./icon.png" alt="API Stress Lab" />
           </span>
           <span className="logo-text">API Stress Lab</span>
         </div>

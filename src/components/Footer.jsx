@@ -52,7 +52,7 @@ const Footer = () => {
           <div className="footer-brand">
             <div className="footer-logo">
               <span className="logo-icon">
-                <img src="/icon.png" alt="API Stress Lab" />
+                <img src="./icon.png" alt="API Stress Lab" />
               </span>
               <span className="logo-text">API Stress Lab</span>
             </div>
